@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581129102989",
+    "project_id": "sportifanapp",
+    "storage_bucket": "sportifanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581129102989:android:50be9c448d3688c38a24c4",
+        "android_client_info": {
+          "package_name": "com.example.sportifan_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-MMUdtmt6j20wElJ7xv_ghUPBI_btQNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
